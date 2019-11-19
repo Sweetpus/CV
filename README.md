@@ -17,6 +17,8 @@ https://sigem-mexico.com.mx/
 
 https://www.smda.mx/
 
+https://brightwood.mx/
+
 https://pyb.com.mx/
 
 http://www.garis.com.mx/
