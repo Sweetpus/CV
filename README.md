@@ -17,7 +17,7 @@ https://sigem-mexico.com.mx/
 
 https://www.smda.mx/
 
-http://brightwood.mx/
+https://brightwood.mx/
 
 http://pyb.com.mx/
 
@@ -32,6 +32,8 @@ https://www.retodealtura.mx/
 https://euroc.pymerp.com/
 
 https://www.edmx.mx/
+
+https://www.sbdplay.com/
 
 APPS EN Google Play Store
 
