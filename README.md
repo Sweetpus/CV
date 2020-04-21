@@ -33,8 +33,6 @@ https://www.retodealtura.mx/
 
 https://euroc.pymerp.com/
 
-https://www.edmx.mx/
-
 https://www.sbdplay.com/
 
 https://www.easysweb.com.mx/
