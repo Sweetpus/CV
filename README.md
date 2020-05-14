@@ -6,8 +6,6 @@ https://www.redalyc.org/
 
 https://koenamattress.com/
 
-https://koena.online/login
-
 https://kreatsolutions.com.mx/
 
 ![Screenshot](Captura.PNG)
@@ -15,13 +13,11 @@ Imagen de muestra CRM
 
 https://sigem-mexico.com.mx/
 
+https://www.easysweb.com.mx/
+
+https://www.garis.com.mx/home/admin/home.do
+
 https://www.smda.mx/
-
-http://brightwood.mx/
-
-http://pyb.com.mx/
-
-http://www.garis.com.mx/
 
 http://b26.mx/
 
@@ -35,4 +31,10 @@ https://euroc.pymerp.com/
 
 https://www.sbdplay.com/
 
-https://www.easysweb.com.mx/
+http://dervue.com/
+
+https://koena.online/login
+
+http://brightwood.mx/
+
+http://pyb.com.mx/
