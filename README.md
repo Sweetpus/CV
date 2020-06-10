@@ -4,8 +4,6 @@ https://sfpya.edomexico.gob.mx/recaudacion/
 
 https://www.redalyc.org/
 
-https://koenamattress.com/
-
 https://kreatsolutions.com.mx/
 
 ![Screenshot](Captura.PNG)
@@ -32,8 +30,6 @@ https://euroc.pymerp.com/
 https://www.sbdplay.com/
 
 http://dervue.com/
-
-https://koena.online/login
 
 http://brightwood.mx/
 
