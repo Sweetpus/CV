@@ -4,14 +4,14 @@ https://sfpya.edomexico.gob.mx/recaudacion/
 
 https://www.redalyc.org/
 
+https://www.easysweb.com.mx/
+
 https://kreatsolutions.com.mx/
 
 ![Screenshot](Captura.PNG)
 Imagen de muestra CRM 
 
 https://sigem-mexico.com.mx/
-
-https://www.easysweb.com.mx/
 
 https://www.garis.com.mx/home/admin/home.do
 
@@ -36,3 +36,7 @@ http://pyb.com.mx/
 https://jsarabialandscaping.com/
 
 https://dervue.com/
+
+https://gi-reproductiva.com/
+
+https://www.newmexautopartes.com/
