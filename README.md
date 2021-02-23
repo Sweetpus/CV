@@ -6,6 +6,8 @@ https://www.redalyc.org/
 
 https://www.easysweb.com.mx/
 
+https://lermaindependiente.com/
+
 https://www.garis.com.mx/home/admin/home.do
 
 https://www.retodealtura.mx/
