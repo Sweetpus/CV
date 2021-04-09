@@ -6,8 +6,6 @@ https://www.redalyc.org/
 
 https://www.easysweb.com.mx/
 
-https://lermaindependiente.com/
-
 https://www.garis.com.mx/home/admin/home.do
 
 https://www.retodealtura.mx/
@@ -32,6 +30,8 @@ http://b26.mx/
 
 ![Screenshot](Captura.PNG)
 Imagen de muestra CRM 
+
+https://lermaindependiente.com/
 
 https://sigem-mexico.com.mx/
 
